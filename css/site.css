@@ -1,0 +1,67 @@
+body {
+	width: auto;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: #EDEDED;
+
+}
+
+h1 {
+  margin-top: 1em;
+
+}
+h3, h1{
+  text-transform: capitalize;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  clear: both;
+}
+dl {
+  display: block;
+ clear: both;
+  width: 100%;
+  margin-bottom: 2em;
+}
+dt,dd {
+  display: inline;
+  position: relative;
+  float: left;
+  margin-right: 1em;
+}
+dt {
+  position: relative;
+  float: left;
+
+}
+th {
+  text-transform: capitalize;
+  text-align: center;
+  background-color: #EEE6A3;
+  border-bottom: #ccc;
+}
+
+.wrapper {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 2em;
+width: 960px;
+
+}
+.error-message {
+display: none;
+}
+.entry {
+  margin-bottom: 1em;
+  margin-top:1em;
+}
+table.post {
+  width: auto !important;
+  word-wrap: break-word;
+
+}
+table.post td {
+   word-wrap: break-word;
+   width: 20px;
+}

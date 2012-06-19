@@ -1,0 +1,5 @@
+Test output of Altmetrics data from full API.
+
+Very Rough output of full Altmetrics Data.
+
+Insert API key within 'key' object in getData method.
